@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloLeaoDev!
 - 👀 I’m interested in fullstack development, with a greater appreciation for the backend. I also like reverse engineering, cybersecurity, low level, mathematics, etc. 
-- 🌱 I'm currently learning about technology in general, but mainly JS/TS and PHP.
+- 🌱 I'm currently learning about technology in general, but mainly JS/TS, PHP and C.
 
 
 <!---
