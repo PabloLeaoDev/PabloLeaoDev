@@ -6,6 +6,8 @@
 
 </div>
 
+<div align="justify">
+
 I'm a Full Stack Developer and Systems Analysis and Development student, focused on software engineering and building web applications that are robust, performant, and scalable. I work on end-to-end solutions — integrating modern backend architectures (mainly **Node.js** and **PHP**) with dynamic frontend interfaces — while keeping a strong commitment to computer science fundamentals, software architecture, and code quality.
 
 - 🏢 Full Stack Developer at **Horizon - Inovação e Tecnologia**, working on web systems, API integrations, and database optimization
@@ -92,3 +94,5 @@ I'm a Full Stack Developer and Systems Analysis and Development student, focused
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpablol@gmail.com)
 
 I'm always open to new connections, knowledge exchange, and opportunities in tech. Feel free to reach out!
+
+</div>
