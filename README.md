@@ -73,6 +73,7 @@ I'm a Full Stack Developer and Systems Analysis and Development student, focused
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -83,10 +84,11 @@ I'm a Full Stack Developer and Systems Analysis and Development student, focused
 </div>
 
 ---
+-->
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpablol@gmail.com)
 
 I'm always open to new connections, knowledge exchange, and opportunities in tech. Feel free to reach out!
