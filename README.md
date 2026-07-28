@@ -16,6 +16,8 @@ I'm a Full Stack Developer and Systems Analysis and Development student, focused
 - 🎓 Graduating in Systems Analysis and Development
 - 📫 Reach me at **devpablol@gmail.com**
 
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -65,6 +67,8 @@ I'm a Full Stack Developer and Systems Analysis and Development student, focused
 
 ---
 
+<div align="justify">
+
 ## 🚀 Highlights
 
 - 💻 **Full Stack Developer @ Horizon - Inovação e Tecnologia** — developing web systems, API integrations, and database optimizations
@@ -72,6 +76,8 @@ I'm a Full Stack Developer and Systems Analysis and Development student, focused
 - 🗣️ **DIO Campus Expert** — developed soft skills in leadership, project management, and proactivity
 - 🔬 **Scientific & Analytical Background** — author of an engineering project developed over 3 years, presented at the 12th Encontro de Jovens Cientistas (UFBA)
 - 📐 **2.5 years of experience** as a private tutor teaching Math, Physics, and Chemistry
+
+</div>
 
 ---
 
@@ -92,6 +98,8 @@ I'm a Full Stack Developer and Systems Analysis and Development student, focused
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpablol@gmail.com)
+
+<div align="justify">
 
 I'm always open to new connections, knowledge exchange, and opportunities in tech. Feel free to reach out!
 
